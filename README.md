@@ -1,5 +1,5 @@
 ![logo](https://github.com/proteusxlr/proteusxlr/blob/main/Arkie.png)
-<h1 align="center">Hi 👋, I'm Arkie J. Tarr</h1>
+<h1 align="center">Hi 👋, I'm Arkie Jairus Tarr</h1>
 <h3 align="center">A passionate DevOps Engineer & Cloud Architect</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/proteusxlr/proteusxlr/blob/main/gif%20coding.gif">
 
