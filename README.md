@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Kubernetes Projects**
 - 🤔 I’m looking for help with  **Building Retail Applications**
 - 💬 Ask me about **AWS, CI/CD, Microservices, Container Orchestration**
-- 📫 How to reach me **Proteusxlr@gmail.com**
+- 📫 How to reach me **arkthedon@gmail.com**
 - ⚡ Fun fact about DevOps: **“DevOps” was coined in 2009 by Patrick Debois, a Belgian IT consultant, during the first DevOpsDays event in Ghent, Belgium.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proteusxlr" alt="proteusxlr" /></a> </p>
